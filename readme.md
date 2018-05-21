@@ -1,0 +1,1 @@
+This document is dedicate to performing A/B test analysis on the results of an experiment. The experiment is designed to improve the product by localizing the translations.
